@@ -43,3 +43,86 @@ Position: absolute;
 .card:hover{
     box-shadow: 0 8px 16px 0 gold;
 }
+.two{
+    position:absolute;
+    top:90px;
+    left:50px
+}
+.three{
+    position:absolute;
+    top:90px;
+    left:0px
+}
+.four{
+    position:absolute;
+    top:110px;
+    left:50px
+}
+.five{
+    position:absolute;
+    top:50px;
+    left:50px
+}
+.six{
+    position:absolute;
+    top:200px;
+    left:50px
+}
+.Number2{
+    color:gold;
+    Position: absolute;
+    bottom:270px;
+    left:220px;
+}
+.Number2-2{
+    color:gold;
+    Position: absolute;
+    top:270px;
+    left:220px;
+}
+.Number2-3{
+    color:gold;
+    Position: absolute;
+    bottom:270px;
+    left:10px;
+}
+.up{
+    position:absolute;
+    top:10px;
+    left:50px
+}
+.down{
+    position:absolute;
+    top:150px;
+    left:50px
+}
+.up1{
+    position:absolute;
+    top:10px;
+    left:50px
+}
+.down1{
+    position:absolute;
+    top:150px;
+    left:50px
+}
+.up2{
+    position:absolute;
+    top:10px;
+    left:0px
+}
+.down2{
+    position:absolute;
+    top:150px;
+    left:0px
+}
+.far atop{
+    position:absolute;
+    top:10px;
+    left:50px
+}
+.down{
+    position:absolute;
+    top:150px;
+    left:50px
+}
